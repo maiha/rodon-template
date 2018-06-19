@@ -7,4 +7,4 @@ auto_nav: true
 highlighter: true
 line_numbers: true
 index: false
-theme: _theme
+theme: my_theme
